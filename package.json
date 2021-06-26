@@ -46,6 +46,6 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.4"
   },
    "engines": {
-    "node": "14.x"
+    "node": "14.16.1"
   }
 }
